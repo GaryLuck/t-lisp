@@ -1,0 +1,11 @@
+Please implement a Tiny LISP in the C language.
+The language should be Turing complete.
+A REPL loop should be implemented. 
+   An expression should be entered by the user, 
+   evaluated by the interpreter, and
+   the result displayed on the console.
+Input and Output should be in the form of S-expressions
+CAR, CDR, CONS, and QUOTE should be implemented
+Integer arithmetic using +, *, /, and - should be implemented
+It should be possible to define functions with DEFUN
+
